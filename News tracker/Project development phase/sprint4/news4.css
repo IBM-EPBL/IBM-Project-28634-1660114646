@@ -1,0 +1,15 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background: linear-gradient(-135deg, #71b7e6, #9b59b6);
+}
+p{
+    font-size: 22px;
+    color: white;
+    line-spacing: 1.5px;
+    font-weight: 500;
+}
+.img{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 500px;
+}
